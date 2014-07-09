@@ -4,6 +4,18 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="awesome_print (v1.1.0, RVM: ruby-1.9.3-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.3.5, RVM: ruby-1.9.3-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.0, RVM: ruby-1.9.3-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.24, RVM: ruby-1.9.3-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_portile (v0.5.1, RVM: ruby-1.9.3-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.6.0, RVM: ruby-1.9.3-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.1.0, RVM: ruby-1.9.3-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rest-client (v1.6.7, RVM: ruby-1.9.3-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="roo (v1.12.1, RVM: ruby-1.9.3-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-ole (v1.2.11.7, RVM: ruby-1.9.3-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v1.0.0, RVM: ruby-1.9.3-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="spreadsheet (v0.8.8, RVM: ruby-1.9.3-p0) [gem]" level="application" />
   </component>
 </module>
 

@@ -1,16 +1,16 @@
 {
-    "name":"contractTesting",
-    "version":"0.0.1",
-    "private":true,
-    "dependencies":{
-        "shred":"*",
-        "xml2js":"*",
-        "jasmine-node":"1.0.28",
-        "datejs":"*",
-        "js-yaml":"0.3.7",
-        "underscore":"*",
-        "coffee-script":"1.2.0",
-        "cookiejar": "1.3.0",
-        "mu2": "*"
-    }
+  "name": "contractTesting",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "shred": "*",
+    "xml2js": "*",
+    "jasmine-node": "1.0.28",
+    "datejs": "*",
+    "js-yaml": "0.3.7",
+    "underscore": "*",
+    "coffee-script": "1.2.0",
+    "cookiejar": "1.3.0",
+    "mu2": "*"
+  }
 }
